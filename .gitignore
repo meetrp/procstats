@@ -1,0 +1,41 @@
+# compiled files #
+###################
+*.o
+*.lo
+*.so
+*.so*
+*.a
+*.la
+.deps
+.libs
+
+
+# coverage files #
+##################
+*.cov
+coverage
+kw_shgw.out
+.autotools
+
+
+# backup files #
+################
+.*.sw*
+
+
+# compile/build directories #
+#############################
+build/
+docs/
+.settings
+
+
+# ide files #
+#############
+.project
+.cproject
+org.eclipse.core.runtime.prefs
+ide
+tags
+cscope.*
+
